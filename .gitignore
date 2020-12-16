@@ -2,3 +2,9 @@
 *.flac
 *.npy
 *.pickle
+
+# include
+!yamnet/data/data_train.pickle
+!yamnet/data/data_val.pickle    
+
+
